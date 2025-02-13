@@ -101,6 +101,14 @@ The application is deployed on Netlify. You can view it live here:
   .env
   README.md
 ```
+## Screen Shot of Movie Search
+
+<img width="1431" alt="Screenshot 2025-02-13 at 10 51 25 AM" src="https://github.com/user-attachments/assets/e174cf4c-c375-4171-8b5d-6bac57bf6eba" />
+
+<img width="1429" alt="Screenshot 2025-02-13 at 10 53 13 AM" src="https://github.com/user-attachments/assets/b9095b11-202a-44a8-a8d9-57b9142aab93" />
+
+
+
 
 ## Development Notes
 
